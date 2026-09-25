@@ -8,6 +8,6 @@ Team Members:
 John Manoj
 John B Thomas
 Johan Biju
-Johan Alphonse Cherian
+Johann Alphons Cherian
 Joel Sunil
 Joel T Jose
